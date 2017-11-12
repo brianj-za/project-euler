@@ -17,3 +17,10 @@ func Max(numbers []int64) (max int64) {
 	}
 	return
 }
+
+func SumSquares(numbers []int64) (res int64) {
+	for _, x := range numbers {
+		res += x * x
+	}
+	return
+}
