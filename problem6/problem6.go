@@ -4,7 +4,7 @@ import (
 	"log"
 	"time"
 
-	"bitbucket.org/brianj-za/project-euler/slice"
+	"bitbucket.com/brianj-za/project-euler/slice"
 )
 
 func main() {
