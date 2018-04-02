@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"bitbucket.org/brianj-za/project-euler/prime"
-	"bitbucket.org/brianj-za/project-euler/slice"
+	"bitbucket.com/brianj-za/project-euler/prime"
+	"bitbucket.com/brianj-za/project-euler/slice"
 )
 
 func main() {
